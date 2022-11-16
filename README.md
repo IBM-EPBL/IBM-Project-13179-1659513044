@@ -3,6 +3,13 @@ IBM-Project-13179-1659513044
 
 # Personal Expense Tracker Application
 
+| Team Member   | Name          | Register number |
+|---------------|---------------| --------------- |
+| Team Lead     | Aiswarya. S   | 412419106003    |
+| Team Member 1 | Danujaa. R    | 412419106013    |
+| Team Member 2 | Sharmitha. S  | 412419106077    |
+| Team Member 3 | Sneha Ganesh  | 412419106083    |
+
 Problem Statement:
 
 In our daily life money is the most important portion and without it we cannot last one day on earth but if we keep on track all financial data then we can overcome this problem. Most of the people cannot track their expenses and income oneway they face the money crisis and depression. This situation motivates us to make an android app to track all financial activities. Using the Personal Expense Tracker Application user can be tracking expenses day to day and making life tension free.
@@ -15,4 +22,12 @@ Personal finance applications will ask users to add their expenses and based on 
 
 ![image](https://user-images.githubusercontent.com/114283326/200778895-f4170177-6501-4e2d-876d-1ee0365af12e.png)
 
-|1-2-3|
+Assignments
+
+1. [Aiswarya. S](https://github.com/IBM-EPBL/IBM-Project-13179-1659513044/tree/main/ASSIGNMENTS/AISWARYA)
+
+2. [Danujaa. R](https://github.com/IBM-EPBL/IBM-Project-13179-1659513044/tree/main/ASSIGNMENTS/DANUJAA)
+
+3. [Sharmitha. S](https://github.com/IBM-EPBL/IBM-Project-13179-1659513044/tree/main/ASSIGNMENTS/SHARMITHA)
+
+4. [Sneha Ganesh](https://github.com/IBM-EPBL/IBM-Project-13179-1659513044/tree/main/ASSIGNMENTS/SNEHA%20GANESH)
